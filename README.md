@@ -2,9 +2,16 @@
 <p align="center">Blockchain Explorer for inspecting and analyzing EVM Chains.</p>
 <div align="center">
 
-[![Blockscout](https://github.com/blockscout/blockscout/workflows/Blockscout/badge.svg?branch=master)](https://github.com/blockscout/blockscout/actions)
-[![](https://dcbadge.vercel.app/api/server/blockscout?style=flat)](https://discord.gg/blockscout)
-
+[![Blockscout]Mikolaj Roszak www.mikolaj.com
+Wykonawca: Mikołaj Roszak
+Adres odbiorcy: Przedwiośnie, 79/12, 73-110, Stargard, PL
+Tel. +48 500 487 977
+Skype: mikolajroszak_1
+Zoom: Mikołaj Roszak
+email: ul.echo12@gmail.com
+REGON: 383183972
+NIP: 854-156-08-32
+REGON: 383183972
 </div>
 
 
